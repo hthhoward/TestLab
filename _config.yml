@@ -1,0 +1,34 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://hannahhoward.co/portfolio/TestLab
+title: TestLab
+email: hello@hannahhoward.co
+author: Hannah Howard
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description.
+copyright: 'Copyright &copy; 2016 Hannah Howard. All Rights Reserved.'
+credits: 'Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/_howard_hannah
+  - title: github
+    url: https://github.com/hthhoward
+  - title: linkedin
+    url: https://www.linkedin.com/in/howardhannah

@@ -1,0 +1,9 @@
+---
+layout: default
+video: https://www.youtube.com/embed/gwYIyjwYluc
+category: Services
+title: Malaria:<b></b>
+description: Introduction
+---
+  <p> Malaria is a disease transmitted to humans by mosquitoes. It poses a life-threatning risk to humans around the world. The malaria parasite presents in five different species, two of which are most threatning to humans: P. falciparum and P. vivax.</p>
+  
